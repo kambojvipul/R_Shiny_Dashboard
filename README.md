@@ -18,4 +18,5 @@ runApp(app.R)
 # Alternatively, the dashboard can be run straight from the R console:
 
 library(shiny)
+
 runGitHub("R_Shiny_Dashboard", "kambojvipul")
