@@ -1,0 +1,26 @@
+Doctor_ID,Department,Emergency_Patients_Score,Old_Patients_Score,Health_Improvement_Score,Survival_Score,Severe_Illness_Survival_Score,Length_of_Stay_Score,Average_Rating
+doc-01,anesthesia,0.2,0.4,0.3,0.2,0.2,0.4,0.5
+doc-24,anesthesia,0.2,0.5,0.9,0.9,0.8,0.6,0.5
+doc-04,emergency,0.2,0.6,0.3,0.4,0.3,0.3,0.5
+doc-18,emergency,0.1,0.5,0.8,0.7,0.5,0.2,0.6
+doc-16,emergency,0.1,0.5,0.8,0.6,0.2,0.4,0.6
+doc-14,emergency,0.1,0.4,0.6,0.7,0.3,0.4,0.5
+doc-23,internal medicine,0.1,0.4,0.9,0.6,0.4,0.4,0.7
+doc-22,internal medicine,0.2,0.4,0.8,0.7,0.5,0.0,0.6
+doc-20,internal medicine,0.1,0.4,0.7,0.7,0.4,0.3,0.5
+doc-12,internal medicine,0.1,0.4,0.4,0.6,0.3,0.4,0.6
+doc-13,internal medicine,0.1,0.4,0.4,0.7,0.4,0.5,0.6
+doc-10,internal medicine,0.1,0.4,0.4,0.6,0.5,0.5,0.6
+doc-09,internal medicine,0.1,0.6,0.3,0.3,0.2,0.3,0.5
+doc-07,internal medicine,0.3,0.4,0.0,0.4,0.2,0.1,0.5
+doc-05,internal medicine,0.2,0.4,0.1,0.4,0.5,0.3,0.6
+doc-02,internal medicine,0.2,0.4,0.1,0.3,0.2,0.2,0.5
+doc-11,internal medicine,0.1,0.4,0.4,0.5,0.4,0.4,0.5
+doc-25,internal medicine,0.3,0.3,1.0,0.7,0.5,0.2,0.5
+doc-17,medicine,0.1,0.4,0.6,0.8,0.6,0.7,0.5
+doc-06,medicine,0.2,0.5,0.2,0.4,0.2,0.3,0.6
+doc-21,medicine,0.1,0.4,0.6,0.7,0.4,1.0,0.6
+doc-15,neurology,0.2,0.4,0.7,0.8,0.4,0.3,0.6
+doc-08,pulmonary medicine,0.2,0.5,0.3,0.2,0.1,0.6,0.6
+doc-19,pulmonary medicine,0.2,0.3,0.5,0.7,0.4,0.7,0.6
+doc-03,pulmonary medicine,0.2,0.4,0.2,0.3,0.3,0.4,0.6

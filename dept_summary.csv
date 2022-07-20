@@ -1,0 +1,7 @@
+Department,Emergency_Patients_Score,Old_Patients_Score,Health_Improvement_Score,Survival_Score,Severe_Illness_Survival_Score,Length_of_Stay_Score,Average_Rating
+anesthesia,0.2,0.4,0.6,0.6,0.5,0.5,0.5
+emergency,0.1,0.5,0.6,0.6,0.3,0.4,0.5
+internal medicine,0.2,0.4,0.5,0.6,0.4,0.3,0.6
+medicine,0.1,0.4,0.5,0.6,0.4,0.7,0.6
+neurology,0.2,0.4,0.7,0.8,0.4,0.3,0.6
+pulmonary medicine,0.2,0.4,0.3,0.4,0.3,0.5,0.6
